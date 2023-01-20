@@ -15,9 +15,9 @@ This repository contains solutions to the lab manuals of the course DSA (Data St
 
 ## Assignments
 
-- [Assignment 1]
-- [Assignment 2]
-- [Assignment 3]
+- [Assignment 1](https://github.com/abidkhan03/DSA-labs-assignments/blob/master/dsa-questions/assignments/assignment-1.md)
+- [Assignment 2](https://github.com/abidkhan03/DSA-labs-assignments/blob/master/dsa-questions/assignments/assignment-2.md)
+- [Assignment 3](https://github.com/abidkhan03/DSA-labs-assignments/blob/master/dsa-questions/assignments/assignment-3.md)
 
 ## Contributing
 
