@@ -4,14 +4,14 @@ This repository contains solutions to the lab manuals of the course DSA (Data St
 
 ## Lab Manuals
 
-- [Lab Manual 0](http://www.github.com/abidkhan03/DSA-labs-assignments/tree/master/lab0)
-- [Lab Manual 1](http://www.github.com/abidkhan03/DSA-labs-assignments/tree/master/lab1)
-- [Lab Manual 2](http://www.github.com/abidkhan03/DSA-labs-assignments/tree/master/lab2)
-- [Lab Manual 3](http://www.github.com/abidkhan03/DSA-labs-assignments/tree/master/lab3)
-- [Lab Manual 4](http://www.github.com/abidkhan03/DSA-labs-assignments/tree/master/lab4)
-- [Lab Manual 5](http://www.github.com/abidkhan03/DSA-labs-assignments/tree/master/lab5)
-- [Lab Manual 6](http://www.github.com/abidkhan03/DSA-labs-assignments/tree/master/lab6)
-- [Lab Manual 7](http://www.github.com/abidkhan03/DSA-labs-assignments/tree/master/lab7)
+- [Lab Manual 0](https://github.com/abidkhan03/DSA-labs-assignments/blob/master/dsa-questions/labs/lab-00.md)
+- [Lab Manual 1](https://github.com/abidkhan03/DSA-labs-assignments/blob/master/dsa-questions/labs/lab-01.md)
+- [Lab Manual 2](https://github.com/abidkhan03/DSA-labs-assignments/blob/master/dsa-questions/labs/lab-02.md)
+- [Lab Manual 3](https://github.com/abidkhan03/DSA-labs-assignments/blob/master/dsa-questions/labs/lab-03.md)
+- [Lab Manual 4](https://github.com/abidkhan03/DSA-labs-assignments/blob/master/dsa-questions/labs/lab-04.md)
+- [Lab Manual 5](https://github.com/abidkhan03/DSA-labs-assignments/blob/master/dsa-questions/labs/lab-05.md)
+- [Lab Manual 6](https://github.com/abidkhan03/DSA-labs-assignments/blob/master/dsa-questions/labs/lab-06.md)
+- [Lab Manual 7](https://github.com/abidkhan03/DSA-labs-assignments/blob/master/dsa-questions/labs/lab-07.md)
 
 ## Assignments
 
