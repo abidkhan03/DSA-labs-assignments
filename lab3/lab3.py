@@ -1,7 +1,4 @@
-#
-# Author: Darshan pandya
-# Student Number: 120846217
-#
+
 # Place the code for your lab 3 here.  Read the specs carefully.  
 # Function name must be exactly as provided.  
 # Names of variables and parameters can be whatever you wish it to be
