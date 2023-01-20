@@ -5,10 +5,7 @@
 # To test, run the following command :
 #     python test_lab1.py
 #
-# Author: 
-# Student Number:120846217
-# Student Name : Darshan pandya 
-
+# Author: Abdullah Abid
 
 def wins_rock_scissors_paper(player, opponent):
     player = player.lower()
