@@ -55,22 +55,12 @@ def function4(number):
 ```
 
 
-## In class portion
-
-
-### Group members
-List the members of your group member below:
-
-	* Name 
-	* ex. Samuel Vimes
-	* ...
-
 ### Timing Data
 Note, if a groupmate did not complete lab1, simply put 0.0 in for the times, it is ok if there is something missing.
 
 | Team member | Timing for fibonacci | Timing for sum_to_number | 
 |---|---|---|
-| Darshan pandya |  4.7918 | 1.00775 |
+| Abid Khan |  4.7918 | 1.00775 |
 
 ### Summary 
 
